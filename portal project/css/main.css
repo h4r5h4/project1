@@ -1,0 +1,48 @@
+/* ::::: https://auth.det.nsw.edu.au/detsso/css/global.css ::::: */
+
+html { margin: 10px 0px; font-family: Verdana,Arial,Helvetica,sans-serif; }
+a img { border: 0px none; }
+form { padding: 0px; margin: 0px; }
+.sectionHeader-TypeA { background-color: rgb(14,116,142); height: 83px; background-image: url('../../../images/newdet/sportal_staff/bg_dot_white.gif'); background-repeat: repeat-x; background-position: center top; width: auto; min-height: 83px; white-space: nowrap; min-width: 750px; }
+.headerTitle-TypeA { width: 440px; height: 13px; float: left; clear: left; margin: 0px; padding: 44px 0pt 0pt 15px; display: block; }
+.sectionLogin-TypeA { height: 75px; width: 295px; float: right; clear: right; color: rgb(30, 26, 21); display: block; }
+.contentBody { font-size: 11px; color: rgb(51, 51, 51); line-height: 17px; padding-left: 20px; padding-right: 10px; }
+.contentBody p { padding: 0px; margin: 8px 0pt 15px; line-height: 19px; }
+.contentBlock { padding: 0px; margin: 0px; }
+.contentBlock ul { margin: 0px 0px 0px 10px; padding: 0px 0px 0px 10px; }
+.contentBlock ul li { color: rgb(229, 204, 204); list-style-type: square; margin: 0px 0px 0px 15px; padding: 2px 0px 2px 7px; }
+.contentBlock ul li.loginPortal { color: rgb(5, 155, 182); list-style-type: square; margin: 0px 0px 0px 15px; padding: 2px 0px; }
+.lhSectionBlock { padding: 10px; margin: 0px; }
+.lhSectionBlock h4 { color: rgb(5, 155, 182); font-size: 15px; font-weight: bold; padding: 0pt; margin: 0px; padding-left: 10px; }
+.lhSectionBlock table { color: rgb(5, 155, 182); font-size: 12px; font-weight: bold; padding: 0pt; margin: 0px; }
+.rhSectionBlock { width: 204px; padding: 10px; margin: 0px; }
+.rhSectionBlock h4 { color: rgb(5, 155, 182); font-size: 12px; font-weight: bold; padding: 0pt; margin: 0px; }
+.rhSectionBlock ul { margin: 0px 0px 0px 15px; padding: 0px; }
+.rhSectionBlock ul li { color: rgb(5, 155, 182); list-style-type: square; padding: 2px 2px 5px 0px; margin: 0px 0px 2px; line-height: 10px; }
+.rl { font-size: 11px; color: rgb(30, 26, 21); padding-bottom: 4px; line-height: 15px; }
+.rl a, .rl a:visited { color: rgb(30, 26, 21); }
+.rl a:hover { text-decoration: underline; color: rgb(104, 34, 34); }
+/* BA --- Add the next 3 lines */
+.rhSectionBlock div.rl { color: rgb(51, 51, 51); font-size: 11px; line-height: 16px; padding-bottom: 5px; margin: 10px 0pt; }
+.rhSectionBlock div.rl a, .rhSectionBlock p.rhNews a:visited { text-decoration: underline;color: rgb(51, 51, 51); }
+.rhSectionBlock div.rl a:hover { text-decoration: underline; color: rgb(104, 34, 34); }
+.footerTop { font-family: verdana,helvetica,arial; font-size: 11px; background-color: rgb(14,116,142); color: rgb(30, 26, 21); padding: 0px; margin: 5px 0px 0px; height: 26px; border-bottom: 4px solid rgb(190, 226, 232); white-space: nowrap; min-width: 750px; background-image: url('../../../images/sportal_staff/gr_footer_right.gif'); background-repeat: no-repeat; background-position: 100% 0pt; }
+.footerBottom { font-family: verdana,helvetica,arial; font-size: 11px; color: rgb(201, 206, 126); background-color: rgb(255, 255, 255); margin: 0px 0px 10px; padding: 10px 0px 0px; display: block; clear: both; width: 100%; height: 70px; text-align: left; background-repeat: no-repeat; background-position: 190px 0pt; min-width: 750px; }
+.keyline_2 { background-image: url('../../../images/newdet/sportal_staff/bg_dots_green.gif'); background-repeat: repeat-x; clear: both; color: rgb(255, 255, 255); font-size: 1px; line-height: 1px; }
+#print-text-TypeA { background-color: rgb(255, 255, 255); width: 60px; float: right; clear: both; height: 23px; padding: 0pt; margin: 0pt 0pt 20px 45px; background-image: url('../images/hd_corner.gif'); background-repeat: no-repeat; background-position: 0pt 100%; }
+#login_wrap { margin: 5px 0pt; }
+#detlogo { padding-right: 25px; float: left; }
+.leftHandColumn { border: 1px solid rgb(5, 155, 182); }
+#rightHandColumn { width: 214px; border: 1px solid rgb(5, 155, 182); background-color: rgb(255, 255, 255); }
+#footerGovLink { float: left; margin: 0px; padding: 5px 10px; clear: none; display: block; background-image: url('../images/gr_footer_left.gif'); background-repeat: no-repeat; }
+.rhSectionBlock p.rhNews { color: rgb(51, 51, 51); font-size: 11px; line-height: 16px; padding-bottom: 5px; margin: 10px 0pt; }
+.rhSectionBlock p.rhNews a, .rhSectionBlock p.rhNews a:visited { text-decoration: underline;color: rgb(51, 51, 51); }
+.rhSectionBlock p.rhNews a:hover { text-decoration: underline; color: rgb(104, 34, 34); }
+.info_header { float: left; margin-left: 0px; display: inline; height: 34px; background-color: rgb(5, 155, 182); background-image: url('../images/gr_caption_angle.gif'); background-repeat: no-repeat; background-position: 100% 2px; padding: 0px 140px 0px 10px; }
+.info_header h2 { padding-top: 7px; color: rgb(255, 255, 255); font-size: 16px; margin: 0px; }
+.info_content { color: rgb(51, 51, 51); font-size: 11px; padding: 4px 10px 0px 275px; margin: 0px; border-top: 3px solid rgb(5, 155, 182); min-width: 455px; }
+.loginPortalBox { margin: 5px 0pt 10px; font-family: verdana,arial,helvetica,sans-serif; width: 183px; font-size: 11px; }
+.label-GlobalText { font-size: 11px; color: rgb(51, 51, 51); }
+.formButton { color: rgb(30, 26, 21); background: none repeat scroll 0% 0% rgb(243, 241, 237); font-family: Verdana,Arial,Helvetica,sans-serif; font-size: 10px; border: 1px solid rgb(30, 26, 21); }
+.formButton2 { color: rgb(30, 26, 21); background: none repeat scroll 0% 0% rgb(223, 219, 213); font-family: Verdana,Arial,Helvetica,sans-serif; font-weight: bold; font-size: 10px; border: 1px solid rgb(30, 26, 21); }
+.login_PortalBox { float: right; width: 213px; margin: 20px; display: inline; background-color: rgb(236, 243, 254); }

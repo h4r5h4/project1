@@ -1,0 +1,12 @@
+
+<?PHP
+require_once("./include/membersite_config.php");
+
+var $host;
+var $uname;
+var $pwd;
+var $database;
+
+
+
+
